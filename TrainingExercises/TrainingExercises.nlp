@@ -1,0 +1,19 @@
+# Project description file
+
+project.name=TrainingExercises
+project.version=8.10
+project.original.version=8.8
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+monitor.tls.insecure=false
+product.original.version=2023.2.0
+project.workspace=5e3acde2e860a132744ca916
+project.test-settings=968da316-e8a6-47f1-9c12-e693551a3db5
+project.test-settings-name=RH0914_2
+project.is-open-test-settings-after-upload=true
+project.id=4eee3f2d-8774-4660-8848-692a8503d081
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false
+product.version=2025.1.0
