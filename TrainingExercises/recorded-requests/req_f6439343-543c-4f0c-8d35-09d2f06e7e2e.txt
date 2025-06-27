@@ -1,0 +1,12 @@
+GET http://tysiphone:8080/jpetstore/images/banner_dogs.gif HTTP/1.1
+Host: tysiphone:8080
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://tysiphone:8080/jpetstore/shop/addItemToCart.shtml?workingItemId=EST-3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: JSESSIONID=667740CCBBAE0FBA32437AA077BAF2BC
+If-None-Match: W/"6161-1694631241446"
+If-Modified-Since: Wed, 13 Sep 2023 18:54:01 GMT
+

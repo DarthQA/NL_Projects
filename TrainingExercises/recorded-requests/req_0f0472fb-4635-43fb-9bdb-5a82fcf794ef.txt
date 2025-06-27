@@ -1,0 +1,12 @@
+GET http://tysiphone:8080/jpetstore/images/cart.gif HTTP/1.1
+Host: tysiphone:8080
+Proxy-Connection: keep-alive
+If-Modified-Since: Wed, 13 Sep 2023 18:54:01 GMT
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+If-None-Match: W/"96-1694631241728"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://tysiphone:8080/jpetstore/shop/signoff.shtml
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: JSESSIONID=FAB1E1587B5093B0520A025F1F7ED603
+
